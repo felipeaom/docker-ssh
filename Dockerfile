@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER "Felipe Marques"
+MAINTAINER Felipe Marques
 
 RUN yum -y install epel-release
 RUN yum -y update
